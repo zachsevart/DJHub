@@ -1,0 +1,6 @@
+pandas
+numpy
+pyrekordbox
+fastapi
+requests
+uvicorn
